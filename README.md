@@ -71,6 +71,14 @@ SkyGrid is a community-driven web platform designed to support the FPV (First Pe
 
 ---
 
+## License Information
+
+MIT License
+
+You are free to use, modify, and distribute this software, provided you include the original license.
+
+---
+
 ##  Acknowledgements
 
 - Flask (Python web framework)
